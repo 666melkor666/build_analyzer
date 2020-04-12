@@ -17,7 +17,7 @@ struct Event;
 
 namespace analyze
 {
-class Analyzer;
+struct Analyzer;
 
 class BuildAnalyzer
 {
